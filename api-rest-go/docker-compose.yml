@@ -1,0 +1,11 @@
+version: "3.9"
+services:
+  api-rest-go:
+    build: .
+    image: api-rest-go:dev
+    container_name: api-rest-go-container
+    volumes:
+      - ./:/app
+    ports:
+      - 8080:8080
+    restart: always
