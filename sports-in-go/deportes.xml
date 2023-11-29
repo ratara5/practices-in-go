@@ -1,0 +1,12 @@
+<deportes>
+    <deporte>
+        <nombre>Fútbol</nombre>
+        <cantidad_jugadores>11</cantidad_jugadores>
+        <popularidad>5</popularidad>
+    </deporte>
+    <deporte>
+        <nombre>Baloncesto</nombre>
+        <cantidad_jugadores>5</cantidad_jugadores>
+        <popularidad>4</popularidad>
+    </deporte>
+</deportes>
